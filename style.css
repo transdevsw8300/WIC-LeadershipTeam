@@ -180,7 +180,8 @@ h2
 {
 	opacity: 1;
 	display: block;
-	position: relative;	
+	position: relative;
+	padding-left: 10px;	
 }
 
 .profile-pic .img-box:hover
@@ -353,4 +354,9 @@ h1::after
 nav.red
 {
 	background: #ff0000;
+
+}
+
+nav.red li a
+{	color: #555
 }
