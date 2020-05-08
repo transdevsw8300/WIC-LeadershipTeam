@@ -350,3 +350,7 @@ h1::after
 
 }
 
+nav.red
+{
+	background: #ff0000;
+}
