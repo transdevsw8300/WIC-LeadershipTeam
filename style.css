@@ -86,11 +86,13 @@ html
 {
 	background: #333;
 	color: #fff;
+
 }
 #missions
 {
 	background: #333;
 	color: #fff;
+
 }
 #missions h1
 {
@@ -180,10 +182,7 @@ h2
 	position: relative;
 }
 
-.profile-pic .img-box:hover
-{
-	background: #dde;	
-}
+
 .profile-pic h2
 {
 	font-size: 22px;
@@ -197,16 +196,17 @@ h2
 	font-size: 15px;
 	font-weight: bold;
 	margin-top: 15px;
+padding-bottom: 30px;
 }
 
 
 
 #ConcernsOverview
 {
-	padding-top: 50px;
-	padding-bottom: 50px;
+
 	color: #fff !important;
 	background: #3c0c44;
+	padding-bottom: 50px;
 }
 
 #ConcernsOverview h1
@@ -254,7 +254,7 @@ h1::after
 #action
 
 {
-	padding-top: 50px;
+	
 	padding-bottom: 50px;
 	
 }
@@ -264,7 +264,7 @@ h1
 	text-align: center;
 	color: #555 !important;
 	padding-top: 75px;
-	padding-bottom: 50px;
+	
 }
 
 h1::after
@@ -302,17 +302,18 @@ h1::after
 
 #form
 {
-	padding-top: 50px;
-	padding-bottom: 50px;
+
 	color: #555;
 	background:#EAFAF1;
+	padding-bottom: 50px;
 }
 
 h1
 {
 	text-align: center;
 	color: #555 !important;
-	padding-bottom: 10px;
+	padding-top: 75px;
+	padding-bottom: 50px;
 
 }
 
