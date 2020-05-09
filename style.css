@@ -68,8 +68,7 @@ html
 /--About--/
 /#about
 {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 100px;
 	color: #555;
 }
 #about .btn
@@ -86,20 +85,18 @@ html
 #missions
 {
 	background: #333;
-	padding: 20px;
-
+	color: #fff;
 }
 #missions
 {
 	background: #333;
 	color: #fff;
-	padding: 20px;
-
 }
 #missions h1
 {
 	text-align: center;
 	color: #fff !important;
+	padding-top: 75px;
 	padding-bottom: 10px;
 
 }
@@ -143,7 +140,7 @@ html
 /---Team Mmebers---/
 #team
 {
-	padding-top: 50px;
+	padding-top: 30px;
 	padding-bottom: 50px;
 	color: #555;
 }
@@ -152,8 +149,8 @@ h1
 {
 	text-align: center;
 	color: #555 !important;
-	padding-bottom: 10px;
-	padding-top: 10px;
+	padding-top: 75px;
+	padding-bottom: 50px;
 }
 
 h1::after
@@ -215,7 +212,8 @@ h2
 #ConcernsOverview h1
 {
 	text-align: center;
-	padding-bottom: 10px;
+	padding-top: 75px;
+	padding-bottom: 50px;
 	color: #fff !important;
 
 }
@@ -265,7 +263,8 @@ h1
 {
 	text-align: center;
 	color: #555 !important;
-	padding-bottom: 10px;
+	padding-top: 75px;
+	padding-bottom: 50px;
 }
 
 h1::after
