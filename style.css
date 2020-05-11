@@ -9,11 +9,12 @@ html
   scroll-behavior: smooth;
 }
 
-
+/
 html,
 body {
   overflow-x: hidden;
 }
+/
 
 
 /--Navigation--/
@@ -240,6 +241,8 @@ h1::after
 	overflow: hidden;
 	padding-top: 56.25%;
 	position: relative;
+ text-align: center;
+ 
 }
 
 .concern-content iframe
@@ -247,9 +250,9 @@ h1::after
 	border: 0;
 	height: 100%;
 	left: 0;
-	position: absolute;
 	top: 0;
 	width: 100%;
+ position: absolute;
 }
 
 /* 4x3 Aspect Ratio */
