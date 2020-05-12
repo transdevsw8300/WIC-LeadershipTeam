@@ -62,8 +62,8 @@ body {
 #welcome
 {
 	width: 100%;
-	background: black;
-background: rgba(0, 0, 0, 0.7);
+	background: #ff7841;
+
 	padding-top: 100px;
 
 }
