@@ -57,6 +57,22 @@ body {
 	font-weight: 600;
 	font-size: 16px;
 }
+
+
+#welcome
+{
+	width: 100%;
+	background: black;
+	padding-top: 100px;
+
+}
+
+#welcome h6
+{
+	color: #fff;
+	font-size: 30px;
+	text-align:center;
+}
 /--Slider--/
 #slider
 {
@@ -73,6 +89,13 @@ body {
 	color: #fff;
 	font-size: 42px;
 }
+
+/.carousel-item img
+{
+	opacity:0.5;
+
+}/
+
 /--About--/
 /#about
 {
@@ -153,6 +176,7 @@ body {
 	padding-top: 30px;
 	padding-bottom: 50px;
 	color: #555;
+
 }
 
 h1
