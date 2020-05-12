@@ -63,6 +63,7 @@ body {
 {
 	width: 100%;
 	background: black;
+background: rgba(0, 0, 0, 0.7);
 	padding-top: 100px;
 
 }
