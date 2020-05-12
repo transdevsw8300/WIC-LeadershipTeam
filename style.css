@@ -382,6 +382,38 @@ h1::after
 
 }
 
+.card
+{
+
+	width: 400px;
+	height: 250px;
+	/background: url(img/Mission1.jpg);/
+	background:#EAFAF1;
+	box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+	margin: 10% auto;
+	position: relative;
+	border-radius: 10px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+.card h4
+{
+
+text-align: center;
+/color: #fff;/
+
+}
+
+.card p
+{
+padding-top: 10px;
+text-align: center;
+/color: #fff;/
+
+}
+
 nav.red
 {
 	background: #ff0000;
@@ -389,5 +421,5 @@ nav.red
 }
 
 nav.red li a
-{	color: #555
+{	color: #555;
 }
