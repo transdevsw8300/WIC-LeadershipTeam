@@ -63,6 +63,7 @@ body {
 {
 	width: 100%;
 	background: #1e1e1e;
+	opacity:0.5;
 	padding-top: 100px;
 
 }
@@ -250,6 +251,10 @@ padding-bottom: 30px;
 
 }
 
+#ConcernsOverview p
+{
+text-align: center;
+}
 h1::after
 {
 	content: '';
@@ -303,7 +308,10 @@ h1::after
 	padding-bottom: 50px;
 	
 }
-
+#action p
+{
+text-align: center;
+}
 h1
 {
 	text-align: center;
