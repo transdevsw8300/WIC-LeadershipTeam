@@ -53,7 +53,7 @@ body {
 }
 .nav-link
 {
-	color: #555!important;
+	color: black;
 	font-weight: 600;
 	font-size: 16px;
 }
@@ -456,9 +456,10 @@ text-align: center;
 nav.red
 {
 	background: #ff0000;
+color: blue;
 
 }
 
 nav.red li a
-{	color: #555;
+{	color: #ccc;
 }
