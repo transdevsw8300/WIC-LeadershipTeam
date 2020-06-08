@@ -376,10 +376,12 @@ h1::after
 	background:#EAFAF1;
 	padding-bottom: 50px;
 }
-#form p
+.container p
 {
-text-align: center;
+text-align: c;
 }
+
+
 h1
 {
 	text-align: center;
@@ -424,8 +426,8 @@ h1::after
 .card
 {
 
-	width: 400px;
-	height: 250px;
+	width: 450px;
+	height: 200px;
 	/background: url(img/Mission1.jpg);/
 	background:#EAFAF1;
 	box-shadow: 0 5px 10px rgba(0,0,0,0.5);
@@ -447,8 +449,9 @@ text-align: center;
 
 .card p
 {
-padding-top: 10px;
+
 text-align: center;
+
 /color: #fff;/
 
 }
